@@ -2,6 +2,8 @@
 
 The **News App** is a full-stack application that allows users to browse categorized news articles in real-time. Built with a modern, scalable, and modular architecture, this app integrates a Spring Boot backend with a dynamic frontend to provide seamless user experience and robust API capabilities.
 
+Check out the hosted app on AWS: http://3.73.84.1/
+
 ---
 
 ## 📋 Features
